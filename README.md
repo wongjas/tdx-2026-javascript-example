@@ -2,6 +2,8 @@
 
 A Slack app that adds a message shortcut to look up the email addresses of everyone who reacted to a message, grouped by reaction.
 
+If you are at TDX 2026, please do not use this README and use the provided instructions on through the minihacks website.
+
 ## What it does
 
 Right-click any message → **Reaction emails** to get a reply like:
